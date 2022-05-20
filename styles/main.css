@@ -1,0 +1,16 @@
+:root{
+    background-color: pink;
+}
+
+.container{
+
+    width: 80%;
+    height: 70vh;
+    background-color:white;
+    border-radius: 5%;
+    margin: auto;
+    margin-top: 5%;
+
+    border: 1px solid gold;
+}
+    
